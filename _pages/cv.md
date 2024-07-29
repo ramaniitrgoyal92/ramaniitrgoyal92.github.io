@@ -10,55 +10,52 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------
+* **Doctor of Philosophy (Ph.D.)** & **Master of Science (M.S.)**
+  * Computer Science & Engineering, The Ohio State University (2013 - 2019)
+  * <ins>Major</ins>: Computer Graphics and Data Visualization \| <ins>Minor</ins>: Artificial Intelligence, High Performance Computing
+  * <ins>Thesis</ins>: Statistical and Machine Learning Approaches for Visualizing and Analyzing Large-Scale Simulation Data
+  
+* **Bachelor of Technology (B.Tech.)**
+  * Computer Science & Engineering, National Institute of Technology, Durgapur, India (2007 - 2011)
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+------
+* **Principal Researcher**
+  * Fujitsu Research of America Inc. (FRA) \| *Feb 2024 - present*
+    
+* **Advanced Computer Scientist**
+  * Intelligent Systems Lab, PARC \| SRI International \| *May 2023 - Feb 2024*
+  
+* **Machine Learning Scientist**
+  * Intelligent Systems Lab \| Palo Alto Research Center Inc. \| *July 2021 - April 2023*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Postdoctoral Researcher**
+  * Information Sciences (CCS-3) \| Los Alamos National Laboratory \| *Jan. 2020 - July 2021*
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Graduate Research Assistance**
+  * Gravity Research Group \| The Ohio State University \| *May 2014 - Dec. 2019*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Graduate Research Intern**
+  * Applied Comp. Science (CCS-7) \| Los Alamos National Laboratory \| *Summer 2019*
+  * Applied Comp. Science (CCS-7) \| Los Alamos National Laboratory \| *Summer 2017*
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* **Graduate Teaching Assistant**
+  * Intro to Comp. Programming in C++ \| Ohio State University \| *Aug 2014- April 2016*
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Senior Software Engineer**
+  * Novell Software Development (India) Pvt. Ltd. \| Bangalore, India \| *June 2011 - May 2013*
   
-Service and leadership
+* **Undergraduate Intern**
+  * European Organization for Nuclear Research (CERN)  \| Geneva, Switzerland \| *Summer 2010* 
+  
+  
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Early Career Excellence - Exceptional Performance Award 2022
+\item Intelligent Systems Lab Appreciation Award 2021, 2023
+\item Graduate Teaching Fellowship for Spring 2019
+\item Aerospace Graduate Excellence Fellowship Award 2019, 2020
+\item College of Engineering Travel Grant Award 2017
+\item Aerospace Travel Grant Award 2018-2019, 2019-2020
+\item Institute Merit Cum Means Scholarship during undergraduate study 2009-2013
