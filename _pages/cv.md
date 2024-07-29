@@ -11,51 +11,51 @@ redirect_from:
 
 Education
 ------
-* **Doctor of Philosophy (Ph.D.)** & **Master of Science (M.S.)**
-  * Computer Science & Engineering, The Ohio State University (2013 - 2019)
-  * <ins>Major</ins>: Computer Graphics and Data Visualization \| <ins>Minor</ins>: Artificial Intelligence, High Performance Computing
-  * <ins>Thesis</ins>: Statistical and Machine Learning Approaches for Visualizing and Analyzing Large-Scale Simulation Data
+* **Doctor of Philosophy (Ph.D.)** 
+  * Aerospace Engineering, Texas A&M University, College Station (2015 - 2020)
+  * <ins>Major</ins>: Reinforcement Learning, Motion Planning and Controls \| <ins>Minor</ins>: Robotics
+
   
 * **Bachelor of Technology (B.Tech.)**
-  * Computer Science & Engineering, National Institute of Technology, Durgapur, India (2007 - 2011)
+  * Mechanical Engineering, Indian Institute of Technology Roorkee (IIT Roorkee), India (2009 - 2013)
 
 Work experience
 ------
-* **Principal Researcher**
-  * Fujitsu Research of America Inc. (FRA) \| *Feb 2024 - present*
-    
+
 * **Advanced Computer Scientist**
-  * Intelligent Systems Lab, PARC \| SRI International \| *May 2023 - Feb 2024*
+  * Intelligent Systems Lab, PARC \| SRI International \| *May 2023 - present*
   
-* **Machine Learning Scientist**
+* **Research Scientist**
   * Intelligent Systems Lab \| Palo Alto Research Center Inc. \| *July 2021 - April 2023*
 
 * **Postdoctoral Researcher**
-  * Information Sciences (CCS-3) \| Los Alamos National Laboratory \| *Jan. 2020 - July 2021*
+  * Land Air & Space Robotics Laboratory \| Texas A&M University \| *July 2020 - June 2021*
 
-* **Graduate Research Assistance**
-  * Gravity Research Group \| The Ohio State University \| *May 2014 - Dec. 2019*
+* **Graduate Research Assistant**
+  * Tensegrity Systems Laboratory \| Texas A&M University \| *Jan. 2016 - July 2020*
 
-* **Graduate Research Intern**
-  * Applied Comp. Science (CCS-7) \| Los Alamos National Laboratory \| *Summer 2019*
-  * Applied Comp. Science (CCS-7) \| Los Alamos National Laboratory \| *Summer 2017*
+* **Instructor of Record**
+  * Center for Teaching Excellence \| Texas A&M University \| *Aug. 2019- Dec. 2019*
   
-* **Graduate Teaching Assistant**
-  * Intro to Comp. Programming in C++ \| Ohio State University \| *Aug 2014- April 2016*
-  
-* **Senior Software Engineer**
-  * Novell Software Development (India) Pvt. Ltd. \| Bangalore, India \| *June 2011 - May 2013*
-  
-* **Undergraduate Intern**
-  * European Organization for Nuclear Research (CERN)  \| Geneva, Switzerland \| *Summer 2010* 
+* **Engineering Manager**
+  * Reliance Industries Limited  \| Jamnagar, India \| *July 2013 - Apr. 2015*
+
+* **Engineering Intern**
+  * TVS Motor Company Limited  \| Hosur, India \| *May 2012 - July 2012*
+
+* **Co-founder**
+  *  IIT Roorkee Motorsports  \| Australia & IIT Roorkee \| *Oct. 2010 - May 2012* 
   
   
 Honors and Awards
-======
+------
 * Early Career Excellence - Exceptional Performance Award 2022
-\item Intelligent Systems Lab Appreciation Award 2021, 2023
-\item Graduate Teaching Fellowship for Spring 2019
-\item Aerospace Graduate Excellence Fellowship Award 2019, 2020
-\item College of Engineering Travel Grant Award 2017
-\item Aerospace Travel Grant Award 2018-2019, 2019-2020
-\item Institute Merit Cum Means Scholarship during undergraduate study 2009-2013
+* Intelligent Systems Lab Appreciation Award 2021, 2023
+* Graduate Teaching Fellowship for Spring 2019
+* Aerospace Graduate Excellence Fellowship Award 2019, 2020
+* College of Engineering Travel Grant Award 2017
+* Aerospace Travel Grant Award 2018-2019, 2019-2020
+* Institute Merit Cum Means Scholarship during undergraduate study 2009-2013
+
+<!-- Leadership Positions and Professional Service
+------ -->

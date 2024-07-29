@@ -173,7 +173,7 @@ J8. **Raman Goyal**, Muhao Chen, Manoranjan Majji, and Robert E. Skelton, "_MOTE
 J7. **Raman Goyal**, Manoranjan Majji, Robert E. Skelton, "_A Vector Approach for Analytical Dynamics of Multiple Rigid Rods_", International Journal of Structural Stability and Dynamics, 19(7):1-25, 2019. [[Paper]](http://dx.doi.org/10.1142/S0219455419500834)
    
 
-J6. Utku Boz, **Raman Goyal** and Robert E. Skelton, "_Actuators and Sensors based on Tensegrity D-bar Structures_", Frontiers in Astronomy and Space Sciences $|$ Space Robotics, 2018. [[Paper]](http://dx.doi.org/10.3389/fspas.2018.00041)
+J6. Utku Boz, **Raman Goyal** and Robert E. Skelton, "_Actuators and Sensors based on Tensegrity D-bar Structures_", Frontiers in Astronomy and Space Sciences \| Space Robotics, 2018. [[Paper]](http://dx.doi.org/10.3389/fspas.2018.00041)
 
 J5. **Raman Goyal**, Robert E. Skelton, and Edwin A. Peraza Hernandez, "_Efficient Design of Lightweight Reinforced Tensegrities Under Local and Global Failure Constraints_", Journal of Applied Mechanics, 87(11): 111005, 2020.  [[Paper]](http://dx.doi.org/10.1115/1.4048049)
       
