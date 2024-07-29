@@ -10,7 +10,7 @@ T16. Mohamed Naveed Gul Mohamed, **Raman Goyal**, Ran Wang, Aayushman Sharma, Su
 
 T15. **Raman Goyal**, Manoranjan Majji, and Robert E. Skelton, "_Shape Control of Gyroscopic Tensegrity Robots_", Society of Engineering Science Annual Technical Meeting (SES 2022), College Station, TX, October 16 - 19, 2022.
 
-T14. **Raman Goyal**, "_A System Design Approach for Control of Tensegrity Robots_", ROBOSOFT 2022, Tensegrity Workshop, 4 April 2022. Also served as a panelist to discuss the upcoming "_grand challenges” of tensegrity robotics research.
+T14. **Raman Goyal**, "_A System Design Approach for Control of Tensegrity Robots_", ROBOSOFT 2022, Tensegrity Workshop, 4 April 2022. Also served as a panelist to discuss the upcoming "_grand challenges_” of tensegrity robotics research.
 [[Link]](https://muse.union.edu/tensegrity/)
 
 T13. **Raman Goyal**, "_A System Design Approach for Intelligent Autonomy_",  Palo Alto Research Center, Palo Alto, California, USA, 11 May 2021.
@@ -39,9 +39,9 @@ T8. **Raman Goyal**, Dipanjan Saha, and Robert E. Skelton, "_Design, Dynamics an
 T7. **Raman Goyal**, Edwin A. Peraza Hernandez, and Robert E. Skelton, "_Tensegrity D-bar Systems for Energy Storage_", Presented 10th European Solid Mechanics Conference - Bologna, Italy, July 2-6, 2018.
 
 
-T6. Robert E. Skelton and **Raman Goyal**, "_Dynamics and Control of Tensegrity Systems with Rigid Bars and Massive Tension Members”. Conference on Smart Materials, Adaptive Structures and Intelligent Systems - San Antonio, Texas September 10-12, 2018.
+T6. Robert E. Skelton and **Raman Goyal**, "_Dynamics and Control of Tensegrity Systems with Rigid Bars and Massive Tension Members_”. Conference on Smart Materials, Adaptive Structures and Intelligent Systems - San Antonio, Texas September 10-12, 2018.
 
-T5. **Raman Goyal** and Robert E. Skelton, "_Dynamics of Class-K Tensegrity Systems Including Cable Mass”. Presented in 10th European Solid Mechanics Conference - Bologna, Italy, July 2-6, 2018.
+T5. **Raman Goyal** and Robert E. Skelton, "_Dynamics of Class-K Tensegrity Systems Including Cable Mass_”. Presented in 10th European Solid Mechanics Conference - Bologna, Italy, July 2-6, 2018.
 
 
 
