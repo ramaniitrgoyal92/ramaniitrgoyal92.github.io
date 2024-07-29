@@ -3,6 +3,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=6V2vgCUAAAAJ&hl=).
+
 Peer-reviewed Conference Articles
 ------
 C36. **Raman Goyal**, Dhrubajit Chowdhury, and Shantanu Rane, "_System Design Approach for Control of Differentially Private Dynamical Systems_", 2024 American Control Conference (ACC), Toronto, Canada, CA, USA, 2024, pp. . 

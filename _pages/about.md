@@ -17,3 +17,9 @@ I am currently working as an Advanced Computer Scientist at the renowned Palo Al
 * In situ Data Analysis of Large-Scale Scientific Simulations
 * Distribution-based Probabilistic Feature Extraction & Visualization
 * Multivariate and Ensemble Data Analysis & Visualization -->
+
+<!-- Relevant Research Project Leadership -->
+
+<!-- One line details  -->
+
+<!-- Proposals and Concept Papers -->
