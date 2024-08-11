@@ -151,8 +151,7 @@ C1. **R. Goyal**, Bryant, T., Majji, M., Skelton, R. E., and Longman, A., “_De
 Peer-reviewed Journal Articles
 ------
 
-J14. Raj Pradip Khawale, Dhrubajit Chowdhury, Raman Goyal, Shubhendu Kumar Singh,
-Ankur Bhatt, Brian Gainey, Benjamin Lawler, Lara Crawford and Rahul Rai, "_Digital Twin-Enabled Autonomous Fault Mitigation in Diesel Engines: An Experimental Validation_", Control Engineering Practice, 2024, Accepted.
+J14. Raj Pradip Khawale, Dhrubajit Chowdhury, **Raman Goyal**, Shubhendu Kumar Singh, Ankur Bhatt, Brian Gainey, Benjamin Lawler, Lara Crawford and Rahul Rai, "_Digital Twin-Enabled Autonomous Fault Mitigation in Diesel Engines: An Experimental Validation_", Control Engineering Practice, 2024, Accepted.
 
 
 J13. Vishala Arya, **Raman Goyal**, Manoranjan Majji, and John L. Junkins, "_Design of LQR Weighting Matrices for Time-Varying Output Covariance Assignment_", Journal of Guidance, Control, and Dynamics, 1-13, 2022.
