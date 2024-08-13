@@ -198,14 +198,16 @@ J2. **Raman Goyal**, Robert E. Skelton, and Edwin A. Peraza Hernandez, "_Design 
 J1. **Raman Goyal**, Edwin A. Peraza Hernandez, and Robert E. Skelton, "_Analytical Study of Tensegrity Lattices for Mass-Efficient Mechanical Energy Absorption_", International Journal of Space Structures, 34(2), 3-21, 2019. [[Paper]](http://dx.doi.org/10.1177/0956059919845330) 
 
 
-Patent Awarded 
+Awarded Patents 
 ------
-P5. Muhammad Adil, **Raman Goyal**, Subhashis Hazarika, Saman Mostafavi, David Schwartz, "_METHOD AND SYSTEM FOR SCALABLE EMBEDDED MODEL PREDICTIVE CONTROL OF HVAC SYSTEMS_", Publication date - 2024/07/11, Patent office – US Patent 18/089,948.[[Patent]](https://patents.google.com/patent/US20240230130A1/en)
+P6. **Raman Goyal**, Anurag  Bhattacharyya, Amirmassoud   Mirzendehdel, Morad  Behandish, "_DESIGN OF ACTIVE RESILIENT STRUCTURES_", Publication date - 2024/08/08, Patent office – US, Application number – 18/162,130. [[Patent]](https://www.freepatentsonline.com/y2024/0265158.html)
 
-P4. Ion Matei, **Raman Goyal**, "_SYSTEM AND METHOD FOR ESTIMATING ERRORS IN A SENSOR NETWORK IMPLEMENTING HIGH FREQUENCY (HF) COMMUNICATION CHANNELS_", Publication date - 2024/06/27, Patent office – US, Application number – 18/077,108.[[Patent]](https://www.freepatentsonline.com/y2024/0195524.html)
+P5. Muhammad Adil, **Raman Goyal**, Subhashis Hazarika, Saman Mostafavi, David Schwartz, "_METHOD AND SYSTEM FOR SCALABLE EMBEDDED MODEL PREDICTIVE CONTROL OF HVAC SYSTEMS_", Publication date - 2024/07/11, Patent office – US Patent 18/089,948. [[Patent]](https://patents.google.com/patent/US20240230130A1/en)
 
-P3. Christoforos Somarakis, **Raman Goyal**, Erfaun Noorani, Alexander Feldman, and Shantanu Rane, "_SYSTEM AND METHOD FOR SECURITY CONTROL IN CYBER-PHYSICAL SYSTEMS WITH DELAY-INDUCED FEEDBACK WATERMARKING_", Publication date - 2024/06/27, Patent office – US, Application number – 18/087,477.[[Patent]](https://patents.google.com/patent/US20240211593A1/en)
+P4. Ion Matei, **Raman Goyal**, "_SYSTEM AND METHOD FOR ESTIMATING ERRORS IN A SENSOR NETWORK IMPLEMENTING HIGH FREQUENCY (HF) COMMUNICATION CHANNELS_", Publication date - 2024/06/27, Patent office – US, Application number – 18/077,108. [[Patent]](https://www.freepatentsonline.com/y2024/0195524.html)
+
+P3. Christoforos Somarakis, **Raman Goyal**, Erfaun Noorani, Alexander Feldman, and Shantanu Rane, "_SYSTEM AND METHOD FOR SECURITY CONTROL IN CYBER-PHYSICAL SYSTEMS WITH DELAY-INDUCED FEEDBACK WATERMARKING_", Publication date - 2024/06/27, Patent office – US, Application number – 18/087,477. [[Patent]](https://patents.google.com/patent/US20240211593A1/en)
   
-P2. **Raman Goyal**, Christoforos Somarakis, Erfaun Noorani, Alexander Feldman, and Shantanu Rane,"_METHOD AND ARCHITECTURE FOR PROVIDING INTEGRATED DESIGN OF CYBER-PHYSICAL SYSTEM WITH WATERMARKING_", Publication date - 2024/3/7, Patent office – US, Application number – 17/939,577.[[Patent]](https://patents.google.com/patent/US20240080325A1/en)
+P2. **Raman Goyal**, Christoforos Somarakis, Erfaun Noorani, Alexander Feldman, and Shantanu Rane,"_METHOD AND ARCHITECTURE FOR PROVIDING INTEGRATED DESIGN OF CYBER-PHYSICAL SYSTEM WITH WATERMARKING_", Publication date - 2024/3/7, Patent office – US, Application number – 17/939,577. [[Patent]](https://patents.google.com/patent/US20240080325A1/en)
 
 P1. Christoforos Somarakis, Erfaun Noorani, **Raman Goyal**, Alexander Feldman, and Shantanu Rane, "_METHOD AND ARCHITECTURE FOR AI-ASSISTED SUPERVISION FOR A CONTROLLED SYSTEM_", Publication date - 2023/12/14, Patent office – US Patent 11,960,273. [[Patent]](https://patents.google.com/patent/US11960273B2/en)
