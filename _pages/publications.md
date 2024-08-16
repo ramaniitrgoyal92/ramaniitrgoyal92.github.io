@@ -198,11 +198,11 @@ J2. **Raman Goyal**, Robert E. Skelton, and Edwin A. Peraza Hernandez, "_Design 
 J1. **Raman Goyal**, Edwin A. Peraza Hernandez, and Robert E. Skelton, "_Analytical Study of Tensegrity Lattices for Mass-Efficient Mechanical Energy Absorption_", International Journal of Space Structures, 34(2), 3-21, 2019. [[Paper]](http://dx.doi.org/10.1177/0956059919845330) 
 
 
-Awarded Patents 
+Awarded and Pending Patents 
 ------
 P6. **Raman Goyal**, Anurag  Bhattacharyya, Amirmassoud   Mirzendehdel, Morad  Behandish, "_DESIGN OF ACTIVE RESILIENT STRUCTURES_", Publication date - 2024/08/08, Patent office – US, Application number – 18/162,130. [[Patent]](https://www.freepatentsonline.com/y2024/0265158.html)
 
-P5. Muhammad Adil, **Raman Goyal**, Subhashis Hazarika, Saman Mostafavi, David Schwartz, "_METHOD AND SYSTEM FOR SCALABLE EMBEDDED MODEL PREDICTIVE CONTROL OF HVAC SYSTEMS_", Publication date - 2024/07/11, Patent office – US Patent 18/089,948. [[Patent]](https://patents.google.com/patent/US20240230130A1/en)
+P5. Muhammad Adil, **Raman Goyal**, Subhashis Hazarika, Saman Mostafavi, David Schwartz, "_METHOD AND SYSTEM FOR SCALABLE EMBEDDED MODEL PREDICTIVE CONTROL OF HVAC SYSTEMS_", Publication date - 2024/07/11, Patent office – US, Application number 18/089,948. [[Patent]](https://patents.google.com/patent/US20240230130A1/en)
 
 P4. Ion Matei, **Raman Goyal**, "_SYSTEM AND METHOD FOR ESTIMATING ERRORS IN A SENSOR NETWORK IMPLEMENTING HIGH FREQUENCY (HF) COMMUNICATION CHANNELS_", Publication date - 2024/06/27, Patent office – US, Application number – 18/077,108. [[Patent]](https://www.freepatentsonline.com/y2024/0195524.html)
 
