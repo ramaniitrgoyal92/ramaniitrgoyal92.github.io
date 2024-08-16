@@ -198,7 +198,7 @@ J2. **Raman Goyal**, Robert E. Skelton, and Edwin A. Peraza Hernandez, "_Design 
 J1. **Raman Goyal**, Edwin A. Peraza Hernandez, and Robert E. Skelton, "_Analytical Study of Tensegrity Lattices for Mass-Efficient Mechanical Energy Absorption_", International Journal of Space Structures, 34(2), 3-21, 2019. [[Paper]](http://dx.doi.org/10.1177/0956059919845330) 
 
 
-Awarded Patents 
+Awarded and Pending Patents 
 ------
 P6. **Raman Goyal**, Anurag  Bhattacharyya, Amirmassoud   Mirzendehdel, Morad  Behandish, "_DESIGN OF ACTIVE RESILIENT STRUCTURES_", Publication date - 2024/08/08, Patent office – US, Application number – 18/162,130. [[Patent]](https://www.freepatentsonline.com/y2024/0265158.html)
 
