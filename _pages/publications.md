@@ -202,7 +202,7 @@ Awarded and Pending Patents
 ------
 P7. Anurag Bhattacharyya, **Raman Goyal**, Amirmassoud Mirzendehdel, Morad Behandish, "_DESIGN OF INTELLIGENT RESILIENT STRUCTURES VIA AUTOMATIC PLACEMENT OF SENSOR AND SMART ACTUATORS_", Publication date - 2024/08/15, Patent office – US, Application number – 18/168,011. [[Patent]](https://www.freepatentsonline.com/y2024/0273245.html)
 
-P6. **Raman Goyal**, Anurag  Bhattacharyya, Amirmassoud   Mirzendehdel, Morad  Behandish, "_DESIGN OF ACTIVE RESILIENT STRUCTURES_", Publication date - 2024/08/08, Patent office – US, Application number – 18/162,130. [[Patent]](https://www.freepatentsonline.com/y2024/0265158.html)
+P6. **Raman Goyal**, Anurag  Bhattacharyya, Amirmassoud   Mirzendehdel, Morad  Behandish, "_DESIGN OF ACTIVE RESILIENT STRUCTURES_", Publication date - 2024/08/08, Patent office – US, Application number – 18/162,130. [[Patent]](https://www.freepatentsonline.com/y2024/0265157.html)
 
 P5. Muhammad Adil, **Raman Goyal**, Subhashis Hazarika, Saman Mostafavi, David Schwartz, "_METHOD AND SYSTEM FOR SCALABLE EMBEDDED MODEL PREDICTIVE CONTROL OF HVAC SYSTEMS_", Publication date - 2024/07/11, Patent office – US, Application number 18/089,948. [[Patent]](https://patents.google.com/patent/US20240230130A1/en)
 
