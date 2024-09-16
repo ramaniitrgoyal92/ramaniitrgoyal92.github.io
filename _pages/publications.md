@@ -8,14 +8,14 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 Peer-reviewed Conference Articles
 ------
-C36. **Raman Goyal**, Dhrubajit Chowdhury, and Shantanu Rane, "_System Design Approach for Control of Differentially Private Dynamical Systems_", 2024 American Control Conference (ACC), Toronto, Canada, CA, USA, 2024, In Publication. 
-<!-- [[Paper]](https://doi.org/) -->
+C36. **Raman Goyal**, Dhrubajit Chowdhury, and Shantanu Rane, "_System Design Approach for Control of Differentially Private Dynamical Systems_", 2024 American Control Conference (ACC), Toronto, Canada, 10-12 July 2024, pp. 2911-2917. 
+[[Paper]](https://doi.org/10.23919/ACC60939.2024.10644971)
 
-C35. Christoforos Somarakis, **Raman Goyal**, Erfaun Noorani, and Shantanu Rane, "_Delay-Induced Watermarking for Detection of Replay Attacks in Linear Systems_", 2024 American Control Conference (ACC), Toronto, Canada, CA, USA, 2024, In Publication. 
-<!-- [[Paper]](https://doi.org/) -->
+C35. Christoforos Somarakis, **Raman Goyal**, Erfaun Noorani, and Shantanu Rane, "_Delay-Induced Watermarking for Detection of Replay Attacks in Linear Systems_", 2024 American Control Conference (ACC), Toronto, Canada, 10-12 July 2024, pp. 5505-5510. 
+[[Paper]](https://doi.org/10.23919/ACC60939.2024.10644926)
 
-C34. Dhrubajit Chowdhury, **Raman Goyal**, and Shantanu Rane, "_Differential Privacy in Nonlinear Dynamical Systems with Tracking Performance Guarantees_", 2024 American Control Conference (ACC), Toronto, Canada, CA, USA, 2024, In Publication. 
-<!-- [[Paper]](https://doi.org/) -->
+C34. Dhrubajit Chowdhury, **Raman Goyal**, and Shantanu Rane, "_Differential Privacy in Nonlinear Dynamical Systems with Tracking Performance Guarantees_", 2024 American Control Conference (ACC), Toronto, Canada, 10-12 July 2024, pp. 1933-1939. 
+[[Paper]](https://doi.org/10.23919/ACC60939.2024.10644323)
 
 C33. Ran Wang, **Raman Goyal**, Suman Chakravorty, "_Learning to Control under Uncertainty with Data-Based Iterative Linear Quadratic Regulator_", 62nd IEEE Conference on Decision and Control (CDC), Singapore, December 13-15, 2023, pp. 789-794.
 [[Paper]](https://doi.org/10.1109/CDC49753.2023.10384069)
