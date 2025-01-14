@@ -11,26 +11,34 @@ Peer-reviewed Conference Articles
 C36. **Raman Goyal**, Dhrubajit Chowdhury, and Shantanu Rane, "_System Design Approach for Control of Differentially Private Dynamical Systems_", 2024 American Control Conference (ACC), Toronto, Canada, 10-12 July 2024, pp. 2911-2917. 
 [[Paper]](https://doi.org/10.23919/ACC60939.2024.10644971)
 
+
 C35. Christoforos Somarakis, **Raman Goyal**, Erfaun Noorani, and Shantanu Rane, "_Delay-Induced Watermarking for Detection of Replay Attacks in Linear Systems_", 2024 American Control Conference (ACC), Toronto, Canada, 10-12 July 2024, pp. 5505-5510. 
 [[Paper]](https://doi.org/10.23919/ACC60939.2024.10644926)
+
 
 C34. Dhrubajit Chowdhury, **Raman Goyal**, and Shantanu Rane, "_Differential Privacy in Nonlinear Dynamical Systems with Tracking Performance Guarantees_", 2024 American Control Conference (ACC), Toronto, Canada, 10-12 July 2024, pp. 1933-1939. 
 [[Paper]](https://doi.org/10.23919/ACC60939.2024.10644323)
 
+
 C33. Ran Wang, **Raman Goyal**, Suman Chakravorty, "_Learning to Control under Uncertainty with Data-Based Iterative Linear Quadratic Regulator_", 62nd IEEE Conference on Decision and Control (CDC), Singapore, December 13-15, 2023, pp. 789-794.
 [[Paper]](https://doi.org/10.1109/CDC49753.2023.10384069)
+
 
 C32. Mohamed Naveed Gul Mohamed, **Raman Goyal**, Suman Chakravorty, "_An Optimal Solution to Infinite Horizon Nonlinear Control Problems_", 62nd IEEE Conference on Decision and Control (CDC), Singapore, December 13-15, 2023, pp. 1643-1648.
 [[Paper]](https://doi.org/10.1109/CDC49753.2023.10384307)
 
+
 C31. **Raman Goyal**, Aayushman Sharma, Alex Brito, Saman Mostafavi, “_Optimal sensor/actuator placement and control of buildings sub-zones to spatio-temporal profiles_”, 18th international IBPSA Building Simulation conference and Exhibitions (BS 2023), Shanghai, China (Hybrid), September 4-6, 2023, 18, pp. 3371 - 3378.
 [[Paper]](https://doi.org//10.26868/25222708.2023.1423)
+
 
 C30. Eric Bier, Alex Brito, **Raman Goyal**, Saman Mostafavi, Les Nelson, Ritesh Sharma, Mahabir Bhandari, Niraj Kunwar, Shamus Li, “_Sensorium: commissioning abundant sensors with augmented reality and QR codes_”, 18th international IBPSA Building Simulation conference and Exhibitions (BS 2023), Shanghai, China (Hybrid), September 4-6, 2023, 18, pp. 3379 - 3387.
 [[Paper]](https://doi.org/10.26868/25222708.2023.1424)
 
+
 C29. Saman Mostafavi, Chihyeon Song, Aayushman Sharma, **Raman Goyal** Alex Brito,  “_Benchmarking model predictive control algorithms in Building Optimization Testing Framework (BOPTEST)_”, 18th international IBPSA Building Simulation conference and Exhibitions (BS 2023), Shanghai, China (Hybrid), September 4-6, 2023, 18, pp. 3318 - 3325.
 [[Paper]](https://doi.org/10.26868/25222708.2023.1371)
+
 
 C28. Aayushman Sharma, **Raman Goyal**, Saman Mostafavi, Shamus Li, Alex Brito, Eric Bier, “_A Data-driven Method to Control Buildings Sub-zones to Spatio-temporal Profiles_”, 18th international IBPSA Building Simulation conference and Exhibitions (BS 2023), Shanghai, China (Hybrid), September 4-6, 2023, 18, pp. 3363 - 3370.
 [[Paper]](https://doi.org/10.26868/25222708.2023.1421)
@@ -42,8 +50,10 @@ C27. **Raman Goyal**, Dhrubajit Chowdhury, Subhashis Hazarika, Raj Pradip Khawal
 C26. Dhrubajit Chowdhury, **Raman Goyal**, Raj Pradip Khawale, Lara Crawford,  Rahul Rai, "_Adaptive Online Fault Mitigation using Hierarchical Engine Control_", 2023 American Control Conference (ACC), San Diego, CA, USA, 2023, pp. 2371-2378. 
 [[Paper]](https://doi.org/10.23919/ACC55779.2023.10155967)
 
+
 C25. Muhammad Adil, **Raman Goyal**, Saman Mostafavi, "_Novel Matrix Decomposition for Fast and Scalable Model Predictive Control_", 2023 American Control Conference (ACC), San Diego, CA, USA, 2023, pp. 1529-1534. 
 [[Paper]](https://doi.org/10.23919/ACC55779.2023.10156166)
+
 
 C24. Mohamed Naveed Gul Mohamed, **Raman Goyal**, Suman Chakravorty, Ran Wang, "_The Information-State Based Approach to Linear System Identification_", 2023 American Control Conference (ACC), San Diego, CA, USA, 2023, pp. 301-306. 
 [[Paper]](https://doi.org/10.23919/ACC55779.2023.10156137)
@@ -53,41 +63,26 @@ C23. **Raman Goyal**, Christoforos Somarakis, Erfaun Noorani, Alexander Feldman,
 [[Paper]](https://doi.org/10.1109/CDC51059.2022.9992339)
 
 
-C22. Erfaun Noorani, Christoforos Somarakis, **Raman Goyal**, Alexander Feldman, and Shantanu Rane, "_Learning-Based Diagnostics for Fault Detection and Isolation in Linear Stochastic Systems_", 30th Mediterranean Conference on Control and Automation (MED),  Athens, Greece, June 28 – July 1, 2022, pp. 761-766. [[Paper]](https://doi.org/10.1109/MED54222.2022.9837165)
-
-  
+C22. Erfaun Noorani, Christoforos Somarakis, **Raman Goyal**, Alexander Feldman, and Shantanu Rane, "_Learning-Based Diagnostics for Fault Detection and Isolation in Linear Stochastic Systems_", 30th Mediterranean Conference on Control and Automation (MED),  Athens, Greece, June 28 – July 1, 2022, pp. 761-766. [[Paper]](https://doi.org/10.1109/MED54222.2022.9837165)  
 
   
 C21. Erfaun Noorani, Christoforos Somarakis, **Raman Goyal**, Alexander Feldman, and Shantanu Rane, "_Model-based Inverse Reinforcement Learning for Online Diagnostics in Stochastic Controlled Systems_", IEEE 17th International Conference on Control \& Automation (ICCA), Naples, Italy, June 27-30, 2022, pp. 338-345.
 [[Paper]](https://doi.org/10.1109/ICCA54724.2022.9831833)
 
-  
-
-
 
 C20. Mohamed Naveed Gul Mohamed, Suman Chakravorty, **Raman Goyal**, Ran Wang, "_On the Optimal Feedback Law in Stochastic Optimal Nonlinear Control_", American Control Conference (ACC), 2022, pp. 970-975.
 [[Paper]](https://doi.org/10.23919/ACC53348.2022.9867673)
-
-  
-
 
 
 C19. **Raman Goyal**, Suman Chakravorty, Ran Wang, Mohamed Naveed Gul Mohamed, "_On the Convergence of Reinforcement Learning in Nonlinear Continuous State Space Problems_",  60th IEEE Conference on Decision and Control (CDC), Austin, Texas, USA, December 13-17, 2021, pp.2969-2975.
 [[Paper]](https://doi.org/10.1109/CDC45484.2021.9682829)
 
 
-
-
-
 C18. Ran Wang, Karthikeya Parunandi, Aayushman Sharma, **Raman Goyal**, Suman Chakravorty, "_On the Search for Feedback in Reinforcement Learning_", 60th IEEE Conference on Decision and Control (CDC), Austin, Texas, USA, December 13-17, 2021, pp. 1560-1567.
 [[Paper]](https://doi.org/10.1109/CDC45484.2021.9683350)
 
-  
 
-
-C17. Vishala Arya, **Raman Goyal**, Manoranjan Majji, and John L. Junkins, "_Design of LQR Weighting Matrices for Time-Varying Output Covariance Assignment_", AAS/AIAA Astrodynamics Specialist Conference, Big Sky, Montana, Virtual, August 9-11 2021.
-
-  
+C17. Vishala Arya, **Raman Goyal**, Manoranjan Majji, and John L. Junkins, "_Design of LQR Weighting Matrices for Time-Varying Output Covariance Assignment_", AAS/AIAA Astrodynamics Specialist Conference, Big Sky, Montana, Virtual, August 9-11 2021.  
 
 
 C16. **Raman Goyal**, Manoranjan Majji, and Robert E. Skelton, "_Optimal Actuator/Sensor Precision for Covariance Steering with Soft Convex Constraints on State and Control_", American Control Conference (ACC), New Orleans, LA, USA, 25-28 May 2021.
@@ -106,18 +101,12 @@ C13. Ran Wang, **Raman Goyal**, Suman Chakravorty, Robert E. Skelton "_Model and
    
 
 C12. **Raman Goyal**, Muhao Chen, Manoranjan Majji and Robert E Skelton, "_Gyroscopic Tensegrity System Dynamics_", 2020 International Conference on Robotics and Automation (ICRA) (published in IEEE Robotics and Automation Letters), Paris, France, 31 May to 4 June 2020.  [[Paper]](http://dx.doi.org/10.1109/LRA.2020.2967288)
- 
-
 
 
 C11. **Raman Goyal** and Robert E. Skelton, "_Joint Optimization of Plant, Controller, and Sensor/Actuator Design_", American Control Conference (ACC), 1507-1512, Philadelphia, PA, USA, July 10-12, 2019. [[Paper]](http://dx.doi.org/10.23919/ACC.2019.8814671)
 
-   
-
 
 C10. **Raman Goyal** and Robert E. Skelton, "_Integrating Structure and Control Design using Tensegrity Paradigm_", Conference on Structural Engineering, Mechanics and Computation (SEMC), 989-994, Cape Town, SA, 2019. [[Paper]](https://doi.org/10.1201/9780429426506-172)
-
-   
 
 
 C9. **Raman Goyal** and Robert E. Skelton, "_Dynamics of Class 1 Tensegrity Systems Including Cable Mass”. 16th Biennial ASCE Conference - Earth and Space 2018, pp. 868 – 876, April 9-12, 2018, Cleveland, Ohio. [[Paper]](http://dx.doi.org/10.1061/9780784481899.082)
@@ -160,30 +149,28 @@ J13. Vishala Arya, **Raman Goyal**, Manoranjan Majji, and John L. Junkins, "_Des
  
 J12. **Raman Goyal**, Manoranjan Majji and Robert E Skelton, "_Integrating Structure, Information Architecture and Control Design: Application to Tensegrity Systems_", Mechanical Systems and Signal Processing, Volume 161, 107913, 2021. [[Paper]](https://doi.org/10.1016/j.ymssp.2021.107913)
    
+
 J11. **Raman Goyal**, Muhao Chen, Manoranjan Majji and Robert E Skelton, "_Gyroscopic Tensegrity Robots_", IEEE Robotics and Automation Letters, 5(2), 1239 – 1246, 2020. [[Paper]](http://dx.doi.org/10.1109/LRA.2020.2967288)
    
 
 J10. Ran Wang, **Raman Goyal**, Suman Chakravorty, Robert E. Skelton, "_Model and Data Based Approaches to the Control of Tensegrity Robots_", IEEE Robotics and Automation Letters, 5(3), 3846 - 3853, 2020. [[Paper]](http://dx.doi.org/10.1109/LRA.2020.2979891)
      
 
-
 J9. **Raman Goyal** and Robert E. Skelton, "_Tensegrity System Dynamics with Rigid Bars and Massive Strings_”, Multibody System Dynamics, 46:203–228, 2019.
  [[Paper]](http://dx.doi.org/10.1007/s11044-019-09666-4)
    
-
 	   
 J8. **Raman Goyal**, Muhao Chen, Manoranjan Majji, and Robert E. Skelton, "_MOTES: Modeling of Tensegrity Structures_", Journal of Open Source Software, 4(42), 1613. [[Paper]](http://dx.doi.org/10.21105/joss.01613)
-	   
-   
+	      
 
 J7. **Raman Goyal**, Manoranjan Majji, Robert E. Skelton, "_A Vector Approach for Analytical Dynamics of Multiple Rigid Rods_", International Journal of Structural Stability and Dynamics, 19(7):1-25, 2019. [[Paper]](http://dx.doi.org/10.1142/S0219455419500834)
    
 
 J6. Utku Boz, **Raman Goyal** and Robert E. Skelton, "_Actuators and Sensors based on Tensegrity D-bar Structures_", Frontiers in Astronomy and Space Sciences \| Space Robotics, 2018. [[Paper]](http://dx.doi.org/10.3389/fspas.2018.00041)
 
+
 J5. **Raman Goyal**, Robert E. Skelton, and Edwin A. Peraza Hernandez, "_Efficient Design of Lightweight Reinforced Tensegrities Under Local and Global Failure Constraints_", Journal of Applied Mechanics, 87(11): 111005, 2020.  [[Paper]](http://dx.doi.org/10.1115/1.4048049)
       
-
 
 J4. Muhao Chen, **Raman Goyal**, Manoranjan Majji, Robert E. Skelton, "_Review of Space Habitat Designs for Long Term Space Explorations_", Progress in Aerospace Sciences, Vol. 122, 100692, 2021. [[Paper]](https://doi.org/10.1016/j.paerosci.2020.100692) 
   
@@ -193,7 +180,6 @@ J3. Muhao Chen, **Raman Goyal**, Manoranjan Majji, Robert E. Skelton, "_Design a
 
 J2. **Raman Goyal**, Robert E. Skelton, and Edwin A. Peraza Hernandez, "_Design of minimal mass load-bearing tensegrity lattices_”, Mechanics Research Communications, 103 (103477), 2020. [[Paper]](http://dx.doi.org/10.1016/j.mechrescom.2020.103477)
   
-
 
 J1. **Raman Goyal**, Edwin A. Peraza Hernandez, and Robert E. Skelton, "_Analytical Study of Tensegrity Lattices for Mass-Efficient Mechanical Energy Absorption_", International Journal of Space Structures, 34(2), 3-21, 2019. [[Paper]](http://dx.doi.org/10.1177/0956059919845330) 
 
@@ -210,6 +196,6 @@ P4. Ion Matei, **Raman Goyal**, "_SYSTEM AND METHOD FOR ESTIMATING ERRORS IN A S
 
 P3. Christoforos Somarakis, **Raman Goyal**, Erfaun Noorani, Alexander Feldman, and Shantanu Rane, "_SYSTEM AND METHOD FOR SECURITY CONTROL IN CYBER-PHYSICAL SYSTEMS WITH DELAY-INDUCED FEEDBACK WATERMARKING_", Publication date - 2024/06/27, Patent office – US, Application number – 18/087,477. [[Patent]](https://patents.google.com/patent/US20240211593A1/en)
   
-P2. **Raman Goyal**, Christoforos Somarakis, Erfaun Noorani, Alexander Feldman, and Shantanu Rane,"_METHOD AND ARCHITECTURE FOR PROVIDING INTEGRATED DESIGN OF CYBER-PHYSICAL SYSTEM WITH WATERMARKING_", Publication date - 2024/3/7, Patent office – US, Application number – 17/939,577. [[Patent]](https://patents.google.com/patent/US20240080325A1/en)
+P2. **Raman Goyal**, Christoforos Somarakis, Erfaun Noorani, Alexander Feldman, and Shantanu Rane,"_METHOD AND ARCHITECTURE FOR PROVIDING INTEGRATED DESIGN OF CYBER-PHYSICAL SYSTEM WITH WATERMARKING_", Publication date - 2025/01/07, Patent office – US Patent 12,192,215. [[Patent]](https://patents.google.com/patent/US20240080325A1/en)
 
-P1. Christoforos Somarakis, Erfaun Noorani, **Raman Goyal**, Alexander Feldman, and Shantanu Rane, "_METHOD AND ARCHITECTURE FOR AI-ASSISTED SUPERVISION FOR A CONTROLLED SYSTEM_", Publication date - 2023/12/14, Patent office – US Patent 11,960,273. [[Patent]](https://patents.google.com/patent/US11960273B2/en)
+P1. Christoforos Somarakis, Erfaun Noorani, **Raman Goyal**, Alexander Feldman, and Shantanu Rane, "_METHOD AND ARCHITECTURE FOR AI-ASSISTED SUPERVISION FOR A CONTROLLED SYSTEM_", Publication date - 2024/04/16, Patent office – US Patent 11,960,273. [[Patent]](https://patents.google.com/patent/US11960273B2/en)
