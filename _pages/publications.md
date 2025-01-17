@@ -8,6 +8,16 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 Peer-reviewed Conference Articles
 ------
+
+C39. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Information-state based Approach to the Optimal Output Feedback Control of Nonlinear Systems_", 2025 American Control Conference (ACC), Denver, Colorado, USA, July 2025, accepted.
+
+
+C38. Ran Wang, Aayushman Sharma, Karthikeya Sharma Parunandi, **Raman Goyal**, Mohamed Naveed Gul Mohamed, Suman Chakravorty, "_The Search for Feedback in Reinforcement Learning_", Tutorial Paper, 2025 American Control Conference (ACC), Denver, Colorado, USA, July 2025, accepted.
+
+
+C37. Mohamed Naveed Gul Mohamed, Abhijeet, Aayushman Sharma, **Raman Goyal**, Suman Chakravorty, "_An Optimal Solution to Infinite Horizon Nonholonomic and Discounted Nonlinear Control Problems_", 2025 American Control Conference (ACC), Denver, Colorado, USA, July 2025, accepted.
+
+
 C36. **Raman Goyal**, Dhrubajit Chowdhury, and Shantanu Rane, "_System Design Approach for Control of Differentially Private Dynamical Systems_", 2024 American Control Conference (ACC), Toronto, Canada, 10-12 July 2024, pp. 2911-2917. 
 [[Paper]](https://doi.org/10.23919/ACC60939.2024.10644971)
 
