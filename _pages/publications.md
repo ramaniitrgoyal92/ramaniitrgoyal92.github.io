@@ -101,7 +101,7 @@ C16. **Raman Goyal**, Manoranjan Majji, and Robert E. Skelton, "_Optimal Actuato
 
 C15. Ran Wang<sup>+</sup>, **Raman Goyal<sup>+</sup>**, Suman Chakravorty, Robert E. Skelton "_Data-based Control of Partially-Observed Robotic Systems_", 2021 International Conference on Robotics and Automation (ICRA), 30 May-5 June 2021, pp. 8104-8110. 
 [[Paper]](https://doi.org/10.1109/ICRA48506.2021.9561001)
-+-Equal Contribution.
+<sup>+</sup>Equal Contribution.
    
 
 C14. Alexander M. Popescu, **Raman Goyal**, and Manoranjan Majji, "_Design and Control of a Tensegrity Torus Spacecraft Composed of Reconfigurable Units_", AIAA SciTech, 11–15 January 2021, Online. [[Paper]](https://doi.org/10.2514/6.2021-1387)
