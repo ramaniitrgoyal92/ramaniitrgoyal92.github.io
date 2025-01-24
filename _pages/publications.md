@@ -76,7 +76,7 @@ C23. **Raman Goyal**, Christoforos Somarakis, Erfaun Noorani, Alexander Feldman,
 C22. Erfaun Noorani, Christoforos Somarakis, **Raman Goyal**, Alexander Feldman, and Shantanu Rane, "_Learning-Based Diagnostics for Fault Detection and Isolation in Linear Stochastic Systems_", 30th Mediterranean Conference on Control and Automation (MED),  Athens, Greece, June 28 – July 1, 2022, pp. 761-766. [[Paper]](https://doi.org/10.1109/MED54222.2022.9837165)  
 
   
-C21. Erfaun Noorani, Christoforos Somarakis, **Raman Goyal**, Alexander Feldman, and Shantanu Rane, "_Model-based Inverse Reinforcement Learning for Online Diagnostics in Stochastic Controlled Systems_", IEEE 17th International Conference on Control \& Automation (ICCA), Naples, Italy, June 27-30, 2022, pp. 338-345.
+C21. Erfaun Noorani, Christoforos Somarakis, **Raman Goyal**, Alexander Feldman, and Shantanu Rane, "_Model-based Inverse Reinforcement Learning for Online Diagnostics in Stochastic Controlled Systems_", IEEE 17th International Conference on Control and Automation (ICCA), Naples, Italy, June 27-30, 2022, pp. 338-345.
 [[Paper]](https://doi.org/10.1109/ICCA54724.2022.9831833)
 
 
@@ -99,9 +99,9 @@ C16. **Raman Goyal**, Manoranjan Majji, and Robert E. Skelton, "_Optimal Actuato
 [[Paper]](https://doi.org/10.23919/ACC50511.2021.9482941)
 
 
-C15. Ran Wang^+^, **Raman Goyal^+^**, Suman Chakravorty, Robert E. Skelton "_Data-based Control of Partially-Observed Robotic Systems_", 2021 International Conference on Robotics and Automation (ICRA), 30 May-5 June 2021, pp. 8104-8110. 
+C15. Ran Wang<sup>+</sup>, **Raman Goyal<sup>+</sup>**, Suman Chakravorty, Robert E. Skelton "_Data-based Control of Partially-Observed Robotic Systems_", 2021 International Conference on Robotics and Automation (ICRA), 30 May-5 June 2021, pp. 8104-8110. 
 [[Paper]](https://doi.org/10.1109/ICRA48506.2021.9561001)
-^+^-Equal Contribution.
++-Equal Contribution.
    
 
 C14. Alexander M. Popescu, **Raman Goyal**, and Manoranjan Majji, "_Design and Control of a Tensegrity Torus Spacecraft Composed of Reconfigurable Units_", AIAA SciTech, 11–15 January 2021, Online. [[Paper]](https://doi.org/10.2514/6.2021-1387)
@@ -119,7 +119,7 @@ C11. **Raman Goyal** and Robert E. Skelton, "_Joint Optimization of Plant, Contr
 C10. **Raman Goyal** and Robert E. Skelton, "_Integrating Structure and Control Design using Tensegrity Paradigm_", Conference on Structural Engineering, Mechanics and Computation (SEMC), 989-994, Cape Town, SA, 2019. [[Paper]](https://doi.org/10.1201/9780429426506-172)
 
 
-C9. **Raman Goyal** and Robert E. Skelton, "_Dynamics of Class 1 Tensegrity Systems Including Cable Mass”. 16th Biennial ASCE Conference - Earth and Space 2018, pp. 868 – 876, April 9-12, 2018, Cleveland, Ohio. [[Paper]](http://dx.doi.org/10.1061/9780784481899.082)
+C9. **Raman Goyal** and Robert E. Skelton, "_Dynamics of Class 1 Tensegrity Systems Including Cable Mass_”. 16th Biennial ASCE Conference - Earth and Space 2018, pp. 868 – 876, April 9-12, 2018, Cleveland, Ohio. [[Paper]](http://dx.doi.org/10.1061/9780784481899.082)
    
 
 C8. H. Karnan, **R. Goyal**, M. Majji, R. E. Skelton and P. Singla, "_Visual Feedback Control of Tensegrity Robotic Systems,_" 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, 2017, pp. 2048-2053. [[Paper]](http://dx.doi.org/10.1109/IROS.2017.8206022)

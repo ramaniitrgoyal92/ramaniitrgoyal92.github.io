@@ -12,12 +12,13 @@ I am currently working as an Advanced Computer Scientist at the renowned Palo Al
 **Research Interest:**
 * Motion Planning and Feedback Control for Autonomous Systems
 * Reinforcement Learning Algorithms for High-DOF Robotic Systems
-* Optimal Sensing/Estimation and Uncertainty Quantification for Dynamical Systems
+* Autonomous Integration of Foundational Models (LLMs) with Optimization
 * Machine Learning-enhanced Digital Twin Models for Dynamical Systems
 * AI-driven Digital Twin Infrastructure for System Health Diagnosis and Prognosis
 * Enhancing Privacy and Security Against Adversarial Attacks in Autonomous Systems
 * Machine Learning-assisted Innovation in Novel Sensor Systems
 * System-level Design and Optimization of Autonomous Systems
+* Optimal Sensing/Estimation and Uncertainty Quantification for Dynamical Systems
 
 
 
