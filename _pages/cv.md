@@ -46,7 +46,7 @@ Work experience
 * **Co-founder**
   *  IIT Roorkee Motorsports  \| Australia & IIT Roorkee \| *Oct. 2010 - May 2012* 
   
-------
+
 Honors and Awards
 ------
 * Early Career Excellence - Exceptional Performance Award 2022
