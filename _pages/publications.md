@@ -46,7 +46,7 @@ C30. Eric Bier, Alex Brito, **Raman Goyal**, Saman Mostafavi, Les Nelson, Ritesh
 [[Paper]](https://doi.org/10.26868/25222708.2023.1424)
 
 
-C29. Saman Mostafavi, Chihyeon Song, Aayushman Sharma, **Raman Goyal** Alex Brito,  “_Benchmarking model predictive control algorithms in Building Optimization Testing Framework (BOPTEST)_”, 18th international IBPSA Building Simulation conference and Exhibitions (BS 2023), Shanghai, China (Hybrid), September 4-6, 2023, 18, pp. 3318 - 3325.
+C29. Saman Mostafavi, Chihyeon Song, Aayushman Sharma, **Raman Goyal**, Alex Brito,  “_Benchmarking model predictive control algorithms in Building Optimization Testing Framework (BOPTEST)_”, 18th international IBPSA Building Simulation conference and Exhibitions (BS 2023), Shanghai, China (Hybrid), September 4-6, 2023, 18, pp. 3318 - 3325.
 [[Paper]](https://doi.org/10.26868/25222708.2023.1371)
 
 
