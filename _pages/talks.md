@@ -6,7 +6,7 @@ author_profile: true
 Talks and Presentation
 ------
 
-T17. Rahul Pandey, Junhua Wei, Youkabed Ostadhossein, **Raman Goyal**, Norine Chang, Benjamin Boggs, Joseph Lee, Gabriel Iftime, "_Sub-ppm Hydrogen Sensing with Functionalized Carbon Nanotubes at Room Temperature_", Poster Presentation, 2024 Materials Research Society Fall Meeting \& Exhibit, Boston, Massachusetts, USA, 2024.
+T17. Rahul Pandey, Junhua Wei, Youkabed Ostadhossein, **Raman Goyal**, Norine Chang, Benjamin Boggs, Joseph Lee, Gabriel Iftime, "_Sub-ppm Hydrogen Sensing with Functionalized Carbon Nanotubes at Room Temperature_", Poster Presentation, 2024 Materials Research Society Fall Meeting & Exhibit, Boston, Massachusetts, USA, 2024.
 
 
 T16. Mohamed Naveed Gul Mohamed, **Raman Goyal**, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Optimality of Information-State Based Feedback for Partially Observed Linear Systems_", Poster Presentation, American Control Conference (ACC), San Diego, California, USA, 2023.
