@@ -151,8 +151,8 @@ Peer-reviewed Journal Articles
 ------
 J16. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Information State based Reinforcement Learning for the Control of Partially Observed Nonlinear Systems_",  IEEE Transactions on Neural Networks and Learning Systems, Accepted.
 
-J15. Ran Wang, Aayushman Sharma, Karthikeya Parunandi, **Raman Goyal**, Mohamed Naveed Gul Mohamed, Suman Chakravorty, "_On the Search for Feedback in Reinforcement Learning_", Journal of Dynamic Systems, Measurement and Control, Accepted.
-
+J15. Ran Wang, Aayushman Sharma, Karthikeya Parunandi, **Raman Goyal**, Mohamed Naveed Gul Mohamed, Suman Chakravorty, "_On the Search for Feedback in Reinforcement Learning_", Journal of Dynamic Systems, Measurement and Control, 1-15, 2025.
+[[Paper]](https://doi.org/10.1115/1.4068705)
 
 J14. Raj Pradip Khawale, Dhrubajit Chowdhury, **Raman Goyal**, Shubhendu Kumar Singh, Ankur Bhatt, Brian Gainey, Benjamin Lawler, Lara Crawford and Rahul Rai, "_Digital Twin-Enabled Autonomous Fault Mitigation in Diesel Engines: An Experimental Validation_", Control Engineering Practice, Volume 152, 106045, 2024. [[Paper]](https://doi.org/10.1016/j.conengprac.2024.106045)
 
