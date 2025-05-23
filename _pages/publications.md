@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=6V2vgCUAAAAJ&hl=).
+<!-- You can also browse my publications and patents directly on this page: -->
+
+- [Peer-reviewed Conference Articles](#peer-reviewed-conference-articles)
+- [Peer-reviewed Journal Articles](#peer-reviewed-journal-articles)
+- [Awarded and Pending Patents](#awarded-and-pending-patents)
 
 Peer-reviewed Conference Articles
 ------
