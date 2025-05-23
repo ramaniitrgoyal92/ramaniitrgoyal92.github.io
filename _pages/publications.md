@@ -144,7 +144,7 @@ C5. Muhao Chen, **Raman Goyal**, Manoranjan Majji, Robert E. Skelton, "_Deployab
 C4. Anthony Longman, Robert Skelton, Joel Sercel, Jane Shevtsov, Muhao Chen, **Raman Goyal**, "_In-Space Fabrication and Growth of Affordable Large Interior Rotating Habitats_", AIAA ASCEND, Nov 16 - Nov 18, 2020. [[Paper]](http://dx.doi.org/10.2514/6.2020-4193)    
 
 
-C3. Edwin Hernandez, **Raman Goyal**, and Robert E. Skelton, 2018, “Tensegrity Lattices for Mass-efficient Planetary Landers,” Proceedings of the 2018 Symposium of International Association for Shell and Spatial Structures, Paper No. 647, Boston, Massachusetts. [[Paper]](https://www.ingentaconnect.com/content/iass/piass/2018/00002018/00000027/art00012)
+C3. Edwin Hernandez, **Raman Goyal**, and Robert E. Skelton, 2018, “_Tensegrity Lattices for Mass-efficient Planetary Landers_,” Proceedings of the 2018 Symposium of International Association for Shell and Spatial Structures, Paper No. 647, Boston, Massachusetts. [[Paper]](https://www.ingentaconnect.com/content/iass/piass/2018/00002018/00000027/art00012)
     
 
 C2. Muhao Chen, Yuling Shen, **Raman Goyal**, Manoranjan Majji, Robert E. Skelton, "_Energy Analysis of Growth Adaptable Artificial Gravity Space Habitat_", AIAA SPACE and Astronautics Forum and Exposition, Sep 2018, Orlando, FL, p.5109. [[Paper]](http://dx.doi.org/10.2514/6.2018-5109)
