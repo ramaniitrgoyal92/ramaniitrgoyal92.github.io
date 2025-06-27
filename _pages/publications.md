@@ -101,7 +101,7 @@ C18. Ran Wang, Karthikeya Parunandi, Aayushman Sharma, **Raman Goyal**, Suman Ch
 [[Paper]](https://doi.org/10.1109/CDC45484.2021.9683350)
 
 
-C17. Vishala Arya, **Raman Goyal**, Manoranjan Majji, and John L. Junkins, "_Design of LQR Weighting Matrices for Time-Varying Output Covariance Assignment_", AAS/AIAA Astrodynamics Specialist Conference, Big Sky, Montana, Virtual, August 9-11 2021.  
+C17. Vishala Arya, **Raman Goyal**, Manoranjan Majji, and John L. Junkins, "_Design of LQR Weighting Matrices for Time-Varying Output Covariance Assignment_", AAS/AIAA Astrodynamics Specialist Conference, Big Sky, Montana, Virtual, August 9-11 2021.
 [[Paper]](https://www.researchgate.net/publication/353830467_DESIGN_OF_LQR_WEIGHTING_MATRICES_FOR_TIME_VARYING_OUTPUT_COVARIANCE_ASSIGNMENT)
 
 C16. **Raman Goyal**, Manoranjan Majji, and Robert E. Skelton, "_Optimal Actuator/Sensor Precision for Covariance Steering with Soft Convex Constraints on State and Control_", American Control Conference (ACC), New Orleans, LA, USA, 25-28 May 2021.
@@ -117,11 +117,11 @@ C14. Alexander M. Popescu, **Raman Goyal**, and Manoranjan Majji, "_Design and C
 [[Paper]](https://doi.org/10.2514/6.2021-1387)
    
 
-C13. Ran Wang, **Raman Goyal**, Suman Chakravorty, Robert E. Skelton "_Model and Data Based Approaches to the Control of Tensegrity Robots_", 2020 International Conference on Robotics and Automation (ICRA) (published in IEEE Robotics and Automation Letters), Paris, France, 31 May to 4 June 2020.  
+C13. Ran Wang, **Raman Goyal**, Suman Chakravorty, Robert E. Skelton "_Model and Data Based Approaches to the Control of Tensegrity Robots_", 2020 International Conference on Robotics and Automation (ICRA) (published in IEEE Robotics and Automation Letters), Paris, France, 31 May to 4 June 2020.
 [[Paper]](http://dx.doi.org/10.1109/LRA.2020.2979891)
    
 
-C12. **Raman Goyal**, Muhao Chen, Manoranjan Majji and Robert E Skelton, "_Gyroscopic Tensegrity System Dynamics_", 2020 International Conference on Robotics and Automation (ICRA) (published in IEEE Robotics and Automation Letters), Paris, France, 31 May to 4 June 2020.  
+C12. **Raman Goyal**, Muhao Chen, Manoranjan Majji and Robert E Skelton, "_Gyroscopic Tensegrity System Dynamics_", 2020 International Conference on Robotics and Automation (ICRA) (published in IEEE Robotics and Automation Letters), Paris, France, 31 May to 4 June 2020. 
 [[Paper]](http://dx.doi.org/10.1109/LRA.2020.2967288)
 
 
@@ -219,11 +219,11 @@ J4. Muhao Chen, **Raman Goyal**, Manoranjan Majji, Robert E. Skelton, "_Review o
  [[Paper]](https://doi.org/10.1016/j.paerosci.2020.100692) 
   
 
-J3. Muhao Chen, **Raman Goyal**, Manoranjan Majji, Robert E. Skelton, "_Design and Analysis of a Growable Artificial Gravity Space Habitat_", Aerospace Science and Technology, Vol. 106, 106147, 2020.  
+J3. Muhao Chen, **Raman Goyal**, Manoranjan Majji, Robert E. Skelton, "_Design and Analysis of a Growable Artificial Gravity Space Habitat_", Aerospace Science and Technology, Vol. 106, 106147, 2020.
 [[Paper]](http://dx.doi.org/10.1016/j.ast.2020.106147)
   
 
-J2. **Raman Goyal**, Robert E. Skelton, and Edwin A. Peraza Hernandez, "_Design of minimal mass load-bearing tensegrity lattices_”, Mechanics Research Communications, 103 (103477), 2020. 
+J2. **Raman Goyal**, Robert E. Skelton, and Edwin A. Peraza Hernandez, "_Design of minimal mass load-bearing tensegrity lattices_”, Mechanics Research Communications, 103 (103477), 2020.
 [[Paper]](http://dx.doi.org/10.1016/j.mechrescom.2020.103477)
   
 
@@ -236,10 +236,10 @@ Awarded and Pending Patents
 P7. Anurag Bhattacharyya, **Raman Goyal**, Amirmassoud Mirzendehdel, Morad Behandish, "_DESIGN OF INTELLIGENT RESILIENT STRUCTURES VIA AUTOMATIC PLACEMENT OF SENSOR AND SMART ACTUATORS_", Publication date - 2024/08/15, Patent office – US, Application number – 18/168,011. 
 [[Patent]](https://www.freepatentsonline.com/y2024/0273245.html)
 
-P6. **Raman Goyal**, Anurag  Bhattacharyya, Amirmassoud   Mirzendehdel, Morad  Behandish, "_DESIGN OF ACTIVE RESILIENT STRUCTURES_", Publication date - 2024/08/08, Patent office – US, Application number – 18/162,130. 
+P6. **Raman Goyal**, Anurag  Bhattacharyya, Amirmassoud   Mirzendehdel, Morad  Behandish, "_DESIGN OF ACTIVE RESILIENT STRUCTURES_", Publication date - 2024/08/08, Patent office – US, Application number – 18/162,130.
 [[Patent]](https://www.freepatentsonline.com/y2024/0265157.html)
 
-P5. Muhammad Adil, **Raman Goyal**, Subhashis Hazarika, Saman Mostafavi, David Schwartz, "_METHOD AND SYSTEM FOR SCALABLE EMBEDDED MODEL PREDICTIVE CONTROL OF HVAC SYSTEMS_", Publication date - 2024/07/11, Patent office – US, Application number 18/089,948. 
+P5. Muhammad Adil, **Raman Goyal**, Subhashis Hazarika, Saman Mostafavi, David Schwartz, "_METHOD AND SYSTEM FOR SCALABLE EMBEDDED MODEL PREDICTIVE CONTROL OF HVAC SYSTEMS_", Publication date - 2024/07/11, Patent office – US, Application number 18/089,948.
 [[Patent]](https://patents.google.com/patent/US20240230130A1/en)
 
 P4. Ion Matei, **Raman Goyal**, "_SYSTEM AND METHOD FOR ESTIMATING ERRORS IN A SENSOR NETWORK IMPLEMENTING HIGH FREQUENCY (HF) COMMUNICATION CHANNELS_", Publication date - 2024/06/27, Patent office – US, Application number – 18/077,108. 
