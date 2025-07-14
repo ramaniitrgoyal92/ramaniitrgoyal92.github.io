@@ -20,9 +20,6 @@ C39. Yuya Aoyama, **Raman Goyal**, Ryosuke Anamizu, Osamu Yoshida, Takahiro Suzu
 C38. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Information-state based Approach to the Optimal Output Feedback Control of Nonlinear Systems_", 2025 American Control Conference (ACC), Denver, Colorado, USA, July 2025, accepted.
 
 
-<!-- C38. Ran Wang, Aayushman Sharma, Karthikeya Sharma Parunandi, **Raman Goyal**, Mohamed Naveed Gul Mohamed, Suman Chakravorty, "_The Search for Feedback in Reinforcement Learning_", Tutorial Paper, 2025 American Control Conference (ACC), Denver, Colorado, USA, July 2025, accepted. -->
-
-
 C37. Mohamed Naveed Gul Mohamed, Abhijeet, Aayushman Sharma, **Raman Goyal**, Suman Chakravorty, "_An Optimal Solution to Infinite Horizon Nonholonomic and Discounted Nonlinear Control Problems_", 2025 American Control Conference (ACC), Denver, Colorado, USA, July 2025, accepted.
 
 
