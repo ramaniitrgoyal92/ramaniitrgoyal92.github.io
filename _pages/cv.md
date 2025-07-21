@@ -37,7 +37,7 @@ Work experience
 * **Instructor of Record**
   * Center for Teaching Excellence \| Texas A&M University \| *Aug. 2019- Dec. 2019*
   
-* **Engineering Manager**
+* **Reliability Engineer**
   * Reliance Industries Limited  \| Jamnagar, India \| *July 2013 - Apr. 2015*
 
 * **Engineering Intern**
