@@ -14,8 +14,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Peer-reviewed Conference Articles
 ------
 
-C39. Yuya Aoyama, **Raman Goyal**, Ryosuke Anamizu, Osamu Yoshida, Takahiro Suzuki, Hiroshi Hirata, Daiki Shimizu, "_Reinforcement Learning-Driven Active SAMD Control for Building Vibrations_", 19th World Conference on Seismic Isolation, Energy Dissipation and Active Vibration Control of Structures (WCSI), Berkeley, California, USA, 15 – 19 September, 2025, accepted.
+C40. Yuya Aoyama, **Raman Goyal**, Ryosuke Anamizu, Osamu Yoshida, Takahiro Suzuki, Hiroshi Hirata, Daiki Shimizu, "_Reinforcement Learning-Driven Active SAMD Control for Building Vibrations_", 19th World Conference on Seismic Isolation, Energy Dissipation and Active Vibration Control of Structures (WCSI), Berkeley, California, USA, 15 – 19 September, 2025, accepted.
 
+C39. Vishala Arya, **Raman Goyal**, "_Linear Quadratic Gaussian Weighting Matrices for Output Covariance Assignment in Nonlinear Systems_", AAS/AIAA Astrodynamics Specialist Conference (AAS 2025), Boston, Massachusetts, August 10-14, 2025. Accepted.
 
 C38. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Information-state based Approach to the Optimal Output Feedback Control of Nonlinear Systems_", 2025 American Control Conference (ACC), Denver, Colorado, USA, July 2025, accepted.
 
@@ -169,7 +170,7 @@ Peer-reviewed Journal Articles
 ------
 J16. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Information State based Reinforcement Learning for the Control of Partially Observed Nonlinear Systems_",  IEEE Transactions on Neural Networks and Learning Systems, Accepted.
 
-J15. Ran Wang, Aayushman Sharma, Karthikeya Parunandi, **Raman Goyal**, Mohamed Naveed Gul Mohamed, Suman Chakravorty, "_On the Search for Feedback in Reinforcement Learning_", Journal of Dynamic Systems, Measurement and Control, 1-15, 2025.
+J15. Ran Wang, Aayushman Sharma, Karthikeya Parunandi, **Raman Goyal**, Mohamed Naveed Gul Mohamed, Suman Chakravorty, "_On the Search for Feedback in Reinforcement Learning_", Journal of Dynamic Systems, Measurement and Control, DS-24-1123, 1-15, 2025.
 [[Paper]](https://doi.org/10.1115/1.4068705)
 
 J14. Raj Pradip Khawale, Dhrubajit Chowdhury, **Raman Goyal**, Shubhendu Kumar Singh, Ankur Bhatt, Brian Gainey, Benjamin Lawler, Lara Crawford and Rahul Rai, "_Digital Twin-Enabled Autonomous Fault Mitigation in Diesel Engines: An Experimental Validation_", Control Engineering Practice, Volume 152, 106045, 2024. 
