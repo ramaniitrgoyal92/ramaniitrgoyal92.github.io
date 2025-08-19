@@ -168,7 +168,8 @@ C1. **R. Goyal**, Bryant, T., Majji, M., Skelton, R. E., and Longman, A., “_De
 
 Peer-reviewed Journal Articles
 ------
-J16. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Information State based Reinforcement Learning for the Control of Partially Observed Nonlinear Systems_",  IEEE Transactions on Neural Networks and Learning Systems, Accepted.
+J16. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Information State based Reinforcement Learning for the Control of Partially Observed Nonlinear Systems_",  IEEE Transactions on Neural Networks and Learning Systems, 1-15, 2025.
+[[Paper]](https://doi.org/10.1109/TNNLS.2025.3593259)
 
 J15. Ran Wang, Aayushman Sharma, Karthikeya Parunandi, **Raman Goyal**, Mohamed Naveed Gul Mohamed, Suman Chakravorty, "_On the Search for Feedback in Reinforcement Learning_", Journal of Dynamic Systems, Measurement and Control, DS-24-1123, 1-15, 2025.
 [[Paper]](https://doi.org/10.1115/1.4068705)
