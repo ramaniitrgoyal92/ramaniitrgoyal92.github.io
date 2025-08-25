@@ -14,14 +14,20 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Peer-reviewed Conference Articles
 ------
 
-C40. Yuya Aoyama, **Raman Goyal**, Ryosuke Anamizu, Osamu Yoshida, Takahiro Suzuki, Hiroshi Hirata, Daiki Shimizu, "_Reinforcement Learning-Driven Active SAMD Control for Building Vibrations_", 19th World Conference on Seismic Isolation, Energy Dissipation and Active Vibration Control of Structures (WCSI), Berkeley, California, USA, 15 – 19 September, 2025, accepted.
+C41. Yuya Aoyama, **Raman Goyal**, Ryosuke Anamizu, Osamu Yoshida, Takahiro Suzuki, Hiroshi Hirata, Daiki Shimizu, "_Reinforcement Learning-Driven Active SAMD Control for Building Vibrations_", 19th World Conference on Seismic Isolation, Energy Dissipation and Active Vibration Control of Structures (WCSI), Berkeley, California, USA, 15 – 19 September, 2025, accepted.
 
-C39. Vishala Arya, **Raman Goyal**, "_Linear Quadratic Gaussian Weighting Matrices for Output Covariance Assignment in Nonlinear Systems_", AAS/AIAA Astrodynamics Specialist Conference (AAS 2025), Boston, Massachusetts, August 10-14, 2025.
-
-C38. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Information-state based Approach to the Optimal Output Feedback Control of Nonlinear Systems_", 2025 American Control Conference (ACC), Denver, Colorado, USA, July 2025.
+C40. Vishala Arya, **Raman Goyal**, "_Linear Quadratic Gaussian Weighting Matrices for Output Covariance Assignment in Nonlinear Systems_", AAS/AIAA Astrodynamics Specialist Conference (AAS 2025), Boston, Massachusetts, August 10-14, 2025.
 
 
-C37. Mohamed Naveed Gul Mohamed, Abhijeet, Aayushman Sharma, **Raman Goyal**, Suman Chakravorty, "_An Optimal Solution to Infinite Horizon Nonholonomic and Discounted Nonlinear Control Problems_", 2025 American Control Conference (ACC), Denver, Colorado, USA, July 2025.
+C39. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Information-state based Approach to the Optimal Output Feedback Control of Nonlinear Systems_", 2025 American Control Conference (ACC), Denver, CO, USA, 2025, pp. 4011-4016.
+[[Paper]](https://doi.org/10.23919/ACC63710.2025.11107601)
+
+C38. R. Wang, A. Sharma, K. S. Parunandi, **R. Goyal**, M. N. Gul Mohamed and S. Chakravorty, "_The Search for Feedback in Reinforcement Learning_", 2025 American Control Conference (ACC), Denver, CO, USA, 2025, pp. 4536-4551.
+[[Paper]](https://doi.org/10.23919/ACC63710.2025.11108065)
+
+
+C37. Mohamed Naveed Gul Mohamed, Abhijeet, Aayushman Sharma, **Raman Goyal**, Suman Chakravorty, "_An Optimal Solution to Infinite Horizon Nonholonomic and Discounted Nonlinear Control Problems_", 2025 American Control Conference (ACC), Denver, CO, USA, 2025, pp. 692-697.
+[[Paper]](https://doi.org/10.23919/ACC63710.2025.11107879)
 
 
 C36. **Raman Goyal**, Dhrubajit Chowdhury, and Shantanu Rane, "_System Design Approach for Control of Differentially Private Dynamical Systems_", 2024 American Control Conference (ACC), Toronto, Canada, 10-12 July 2024, pp. 2911-2917. 
