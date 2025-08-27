@@ -22,6 +22,7 @@ C40. Vishala Arya, **Raman Goyal**, "_Linear Quadratic Gaussian Weighting Matric
 C39. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Information-state based Approach to the Optimal Output Feedback Control of Nonlinear Systems_", 2025 American Control Conference (ACC), Denver, CO, USA, 2025, pp. 4011-4016.
 [[Paper]](https://doi.org/10.23919/ACC63710.2025.11107601)
 
+
 C38. R. Wang, A. Sharma, K. S. Parunandi, **R. Goyal**, M. N. Gul Mohamed and S. Chakravorty, "_The Search for Feedback in Reinforcement Learning_", 2025 American Control Conference (ACC), Denver, CO, USA, 2025, pp. 4536-4551.
 [[Paper]](https://doi.org/10.23919/ACC63710.2025.11108065)
 
@@ -244,15 +245,15 @@ P7. Anurag Bhattacharyya, **Raman Goyal**, Amirmassoud Mirzendehdel, Morad Behan
 P6. **Raman Goyal**, Anurag  Bhattacharyya, Amirmassoud   Mirzendehdel, Morad  Behandish, "_DESIGN OF ACTIVE RESILIENT STRUCTURES_", Publication date - 2024/08/08, Patent office – US, Application number – 18/162,130.
 [[Patent]](https://www.freepatentsonline.com/y2024/0265157.html)
 
-P5. Muhammad Adil, **Raman Goyal**, Subhashis Hazarika, Saman Mostafavi, David Schwartz, "_METHOD AND SYSTEM FOR SCALABLE EMBEDDED MODEL PREDICTIVE CONTROL OF HVAC SYSTEMS_", Publication date - 2024/07/11, Patent office – US, Application number 18/089,948.
-[[Patent]](https://patents.google.com/patent/US20240230130A1/en)
-
-P4. Ion Matei, **Raman Goyal**, "_SYSTEM AND METHOD FOR ESTIMATING ERRORS IN A SENSOR NETWORK IMPLEMENTING HIGH FREQUENCY (HF) COMMUNICATION CHANNELS_", Publication date - 2024/06/27, Patent office – US, Application number – 18/077,108. 
+P5. Ion Matei, **Raman Goyal**, "_SYSTEM AND METHOD FOR ESTIMATING ERRORS IN A SENSOR NETWORK IMPLEMENTING HIGH FREQUENCY (HF) COMMUNICATION CHANNELS_", Publication date - 2024/06/27, Patent office – US, Application number – 18/077,108. 
 [[Patent]](https://www.freepatentsonline.com/y2024/0195524.html)
 
-P3. Christoforos Somarakis, **Raman Goyal**, Erfaun Noorani, Alexander Feldman, and Shantanu Rane, "_SYSTEM AND METHOD FOR SECURITY CONTROL IN CYBER-PHYSICAL SYSTEMS WITH DELAY-INDUCED FEEDBACK WATERMARKING_", Publication date - 2024/06/27, Patent office – US, Application number – 18/087,477. 
+P4. Christoforos Somarakis, **Raman Goyal**, Erfaun Noorani, Alexander Feldman, and Shantanu Rane, "_SYSTEM AND METHOD FOR SECURITY CONTROL IN CYBER-PHYSICAL SYSTEMS WITH DELAY-INDUCED FEEDBACK WATERMARKING_", Publication date - 2024/06/27, Patent office – US, Application number – 18/087,477. 
 [[Patent]](https://patents.google.com/patent/US20240211593A1/en)
   
+P3. Muhammad Adil, **Raman Goyal**, Subhashis Hazarika, Saman Mostafavi, David Schwartz, "_METHOD AND SYSTEM FOR SCALABLE EMBEDDED MODEL PREDICTIVE CONTROL OF HVAC SYSTEMS_", Publication date - 2025/8/12, Patent office – US Patent 12,385,660.
+[[Patent]](https://patents.google.com/patent/US20240230130A1/en)
+
 P2. **Raman Goyal**, Christoforos Somarakis, Erfaun Noorani, Alexander Feldman, and Shantanu Rane,"_METHOD AND ARCHITECTURE FOR PROVIDING INTEGRATED DESIGN OF CYBER-PHYSICAL SYSTEM WITH WATERMARKING_", Publication date - 2025/01/07, Patent office – US Patent 12,192,215. 
 [[Patent]](https://patents.google.com/patent/US20240080325A1/en)
 
