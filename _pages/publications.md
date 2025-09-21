@@ -14,7 +14,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Peer-reviewed Conference Articles
 ------
 
-C41. Yuya Aoyama, **Raman Goyal**, Ryosuke Anamizu, Osamu Yoshida, Takahiro Suzuki, Hiroshi Hirata, Daiki Shimizu, "_Reinforcement Learning-Driven Active SAMD Control for Building Vibrations_", 19th World Conference on Seismic Isolation, Energy Dissipation and Active Vibration Control of Structures (WCSI), Berkeley, California, USA, 15 – 19 September, 2025, accepted.
+C41. Yuya Aoyama, **Raman Goyal**, Ryosuke Anamizu, Osamu Yoshida, Takahiro Suzuki, Hiroshi Hirata, Daiki Shimizu, "_Reinforcement Learning-Driven Active SAMD Control for Building Vibrations_", 19th World Conference on Seismic Isolation, Energy Dissipation and Active Vibration Control of Structures (WCSI), Berkeley, California, USA, 15 – 19 September, 2025.
 
 C40. Vishala Arya, **Raman Goyal**, "_Linear Quadratic Gaussian Weighting Matrices for Output Covariance Assignment in Nonlinear Systems_", AAS/AIAA Astrodynamics Specialist Conference (AAS 2025), Boston, Massachusetts, August 10-14, 2025.
 
