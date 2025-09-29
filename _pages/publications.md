@@ -242,22 +242,22 @@ J1. **Raman Goyal**, Edwin A. Peraza Hernandez, and Robert E. Skelton, "_Analyti
 Awarded and Pending Patents 
 ------
 P7. Anurag Bhattacharyya, **Raman Goyal**, Amirmassoud Mirzendehdel, Morad Behandish, "_DESIGN OF INTELLIGENT RESILIENT STRUCTURES VIA AUTOMATIC PLACEMENT OF SENSOR AND SMART ACTUATORS_", Publication date - 2024/08/15, Patent office – US, Application number – 18/168,011. 
-[[Patent]](https://www.freepatentsonline.com/y2024/0273245.html)
+[[Patent]](https://patents.google.com/patent/US20240273245A1/en)
 
 P6. **Raman Goyal**, Anurag  Bhattacharyya, Amirmassoud   Mirzendehdel, Morad  Behandish, "_DESIGN OF ACTIVE RESILIENT STRUCTURES_", Publication date - 2024/08/08, Patent office – US, Application number – 18/162,130.
-[[Patent]](https://www.freepatentsonline.com/y2024/0265157.html)
+[[Patent]](https://patents.google.com/patent/US20240265157A1/en)
 
 P5. Ion Matei, **Raman Goyal**, "_SYSTEM AND METHOD FOR ESTIMATING ERRORS IN A SENSOR NETWORK IMPLEMENTING HIGH FREQUENCY (HF) COMMUNICATION CHANNELS_", Publication date - 2024/06/27, Patent office – US, Application number – 18/077,108. 
-[[Patent]](https://www.freepatentsonline.com/y2024/0195524.html)
+[[Patent]](https://patents.google.com/patent/US20240195524A1/en)
 
-P4. Christoforos Somarakis, **Raman Goyal**, Erfaun Noorani, Alexander Feldman, and Shantanu Rane, "_SYSTEM AND METHOD FOR SECURITY CONTROL IN CYBER-PHYSICAL SYSTEMS WITH DELAY-INDUCED FEEDBACK WATERMARKING_", Publication date - 2024/06/27, Patent office – US, Application number – 18/087,477. 
+P4. Christoforos Somarakis, **Raman Goyal**, Erfaun Noorani, Shantanu Rane, "_SYSTEM AND METHOD FOR SECURITY CONTROL IN CYBER-PHYSICAL SYSTEMS WITH DELAY-INDUCED FEEDBACK WATERMARKING_", Publication date - 2025/09/09, Patent office – US Patent 12,411,951. 
 [[Patent]](https://patents.google.com/patent/US20240211593A1/en)
   
 P3. Muhammad Adil, **Raman Goyal**, Subhashis Hazarika, Saman Mostafavi, David Schwartz, "_METHOD AND SYSTEM FOR SCALABLE EMBEDDED MODEL PREDICTIVE CONTROL OF HVAC SYSTEMS_", Publication date - 2025/8/12, Patent office – US Patent 12,385,660.
 [[Patent]](https://patents.google.com/patent/US20240230130A1/en)
 
-P2. **Raman Goyal**, Christoforos Somarakis, Erfaun Noorani, Alexander Feldman, and Shantanu Rane,"_METHOD AND ARCHITECTURE FOR PROVIDING INTEGRATED DESIGN OF CYBER-PHYSICAL SYSTEM WITH WATERMARKING_", Publication date - 2025/01/07, Patent office – US Patent 12,192,215. 
+P2. **Raman Goyal**, Christoforos Somarakis, Erfaun Noorani, Alexander Feldman, Shantanu Rane,"_METHOD AND ARCHITECTURE FOR PROVIDING INTEGRATED DESIGN OF CYBER-PHYSICAL SYSTEM WITH WATERMARKING_", Publication date - 2025/01/07, Patent office – US Patent 12,192,215. 
 [[Patent]](https://patents.google.com/patent/US20240080325A1/en)
 
-P1. Christoforos Somarakis, Erfaun Noorani, **Raman Goyal**, Alexander Feldman, and Shantanu Rane, "_METHOD AND ARCHITECTURE FOR AI-ASSISTED SUPERVISION FOR A CONTROLLED SYSTEM_", Publication date - 2024/04/16, Patent office – US Patent 11,960,273.
+P1. Christoforos Somarakis, Erfaun Noorani, **Raman Goyal**, Alexander Feldman, Shantanu Rane, "_METHOD AND ARCHITECTURE FOR AI-ASSISTED SUPERVISION FOR A CONTROLLED SYSTEM_", Publication date - 2024/04/16, Patent office – US Patent 11,960,273.
  [[Patent]](https://patents.google.com/patent/US11960273B2/en)
