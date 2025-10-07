@@ -22,11 +22,11 @@ Education
 Work experience
 ------
 
-* **Advanced Computer Scientist**
-  * Intelligent Systems Lab, PARC \| SRI International \| *May 2023 - present*
+* **Advanced Research Scientist**
+  * AI for Resilient Systems Lab \| SRI International \| *May 2023 - present*
   
 * **Research Scientist**
-  * Intelligent Systems Lab \| Palo Alto Research Center Inc. \| *July 2021 - April 2023*
+  * Intelligent Systems Lab \| Palo Alto Research Center (PARC) \| *July 2021 - April 2023*
 
 * **Postdoctoral Researcher**
   * Land Air & Space Robotics Laboratory \| Texas A&M University \| *July 2020 - June 2021*

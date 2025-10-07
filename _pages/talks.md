@@ -5,7 +5,9 @@ author_profile: true
 ---
 Talks and Presentation
 ------
-T18. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Model Based Reinforcement Learning for Partially Observed Nonlinear Systems_", Tutorial Session, American Control Conference (ACC), Denver, Colorado, USA, July 2025.
+T19. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Model Based Reinforcement Learning for Partially Observed Nonlinear Systems_", Tutorial Session, American Control Conference (ACC), Denver, Colorado, USA, July 2025.
+
+T18. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Suman Chakravorty, "_An information-state based Approach to the Optimal Output Feedback Control of Nonlinear Systems_", Workshop, American Control Conference (ACC), Toronto, Canada, 10-12 July 2024.
 
 T17. Rahul Pandey, Junhua Wei, Youkabed Ostadhossein, **Raman Goyal**, Norine Chang, Benjamin Boggs, Joseph Lee, Gabriel Iftime, "_Sub-ppm Hydrogen Sensing with Functionalized Carbon Nanotubes at Room Temperature_", Poster Presentation, 2024 Materials Research Society Fall Meeting & Exhibit, Boston, Massachusetts, USA, 2024.
 
