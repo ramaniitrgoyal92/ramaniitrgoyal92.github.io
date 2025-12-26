@@ -175,7 +175,8 @@ C1. **R. Goyal**, Bryant, T., Majji, M., Skelton, R. E., and Longman, A., “_De
 
 Peer-reviewed Journal Articles
 ------
-J17. Mohamed Naveed Gul Mohamed, **Raman Goyal**, Ran Wang, Suman Chakravorty, "_An Information-State Based Approach to Linear Time Varying System Identification and Control_", Journal of Dynamic Systems, Measurement and Control, 2025, Accepted.
+J17. Mohamed Naveed Gul Mohamed, **Raman Goyal**, Ran Wang, Suman Chakravorty, "_An Information-State Based Approach to Linear Time Varying System Identification and Control_", Journal of Dynamic Systems, Measurement and Control, 1-11, 2025.
+[[Paper]](https://doi.org/10.1115/1.4070653)
 
 J16. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Information State based Reinforcement Learning for the Control of Partially Observed Nonlinear Systems_",  IEEE Transactions on Neural Networks and Learning Systems, 1-15, 2025.
 [[Paper]](https://doi.org/10.1109/TNNLS.2025.3593259)
