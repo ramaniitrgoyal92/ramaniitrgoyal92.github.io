@@ -14,6 +14,10 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Peer-reviewed Conference Articles
 ------
 
+C43. Yuya Aoyama, **Raman Goyal**, Ryosuke Anamizu, Osamu Yoshida, Takahiro Suzuki, Hiroshi Hirata, Daiki Shimizu, "_Active SAMD Control for Building Vibrations Using Reinforcement Learning_", 9th World Conference on Structural Control and Monitoring (9WCSCM), Sheffield, UK, July 19 - 22, 2026.
+
+C42. Ripon C Sarker, Pedram H Dabaghian, **Raman Goyal**, Atanu Halder, "_A Machine Learning Framework for Fault Detection, Isolation, and Severity Prediction of Autonomous VTOL Aircraft_", Proceedings of the Vertical Flight Society’s Transformative Vertical Flight (TVF) Conference, San Jose, California, January 27-29, 2026.
+
 C41. Yuya Aoyama, **Raman Goyal**, Ryosuke Anamizu, Osamu Yoshida, Takahiro Suzuki, Hiroshi Hirata, Daiki Shimizu, "_Reinforcement Learning-Driven Active SAMD Control for Building Vibrations_", 19th World Conference on Seismic Isolation, Energy Dissipation and Active Vibration Control of Structures (WCSI), Berkeley, California, USA, 15 – 19 September, 2025.
 
 C40. Vishala Arya, **Raman Goyal**, "_Linear Quadratic Gaussian Weighting Matrices for Output Covariance Assignment in Nonlinear Systems_", AAS/AIAA Astrodynamics Specialist Conference (AAS 2025), Boston, Massachusetts, August 10-14, 2025.
@@ -248,8 +252,8 @@ P7. Anurag Bhattacharyya, **Raman Goyal**, Amirmassoud Mirzendehdel, Morad Behan
 P6. **Raman Goyal**, Anurag  Bhattacharyya, Amirmassoud   Mirzendehdel, Morad  Behandish, "_DESIGN OF ACTIVE RESILIENT STRUCTURES_", Publication date - 2024/08/08, Patent office – US, Application number – 18/162,130.
 [[Patent]](https://patents.google.com/patent/US20240265157A1/en)
 
-P5. Ion Matei, **Raman Goyal**, "_SYSTEM AND METHOD FOR ESTIMATING ERRORS IN A SENSOR NETWORK IMPLEMENTING HIGH FREQUENCY (HF) COMMUNICATION CHANNELS_", Publication date - 2024/06/27, Patent office – US, Application number – 18/077,108. 
-[[Patent]](https://patents.google.com/patent/US20240195524A1/en)
+P5. Ion Matei, **Raman Goyal**, "_SYSTEM AND METHOD FOR ESTIMATING ERRORS IN A SENSOR NETWORK IMPLEMENTING HIGH FREQUENCY (HF) COMMUNICATION CHANNELS_", Publication date - 2024/06/27, Patent office – US Patent 12,470,320. 
+[[Patent]](https://patents.google.com/patent/US12470320B2/en)
 
 P4. Christoforos Somarakis, **Raman Goyal**, Erfaun Noorani, Shantanu Rane, "_SYSTEM AND METHOD FOR SECURITY CONTROL IN CYBER-PHYSICAL SYSTEMS WITH DELAY-INDUCED FEEDBACK WATERMARKING_", Publication date - 2025/09/09, Patent office – US Patent 12,411,951. 
 [[Patent]](https://patents.google.com/patent/US20240211593A1/en)
