@@ -179,6 +179,7 @@ C1. **R. Goyal**, Bryant, T., Majji, M., Skelton, R. E., and Longman, A., “_De
 
 Peer-reviewed Journal Articles
 ------
+
 J17. Mohamed Naveed Gul Mohamed, **Raman Goyal**, Ran Wang, Suman Chakravorty, "_An Information-State Based Approach to Linear Time Varying System Identification and Control_", Journal of Dynamic Systems, Measurement and Control, 1-11, 2025.
 [[Paper]](https://doi.org/10.1115/1.4070653)
 
@@ -243,9 +244,14 @@ J2. **Raman Goyal**, Robert E. Skelton, and Edwin A. Peraza Hernandez, "_Design 
 J1. **Raman Goyal**, Edwin A. Peraza Hernandez, and Robert E. Skelton, "_Analytical Study of Tensegrity Lattices for Mass-Efficient Mechanical Energy Absorption_", International Journal of Space Structures, 34(2), 3-21, 2019. 
 [[Paper]](http://dx.doi.org/10.1177/0956059919845330) 
 
-
-Awarded and Pending Patents 
+Book Chapters
 ------
+
+B1. Ran Wang, **Raman Goyal**, Karthikeya S Parunandi, Aayushman Sharma, Suman Chakravorty, "_Decoupled Data-Based Control (D2C)_", Handbook of Dynamic Data Driven Applications Systems: Volume 3, Pages 223-254, Springer Nature Switzerland, July 2026. [[Chapter]] (https://doi.org/10.1007/978-3-031-88574-7_8)
+
+Awarded and Pending Patents
+------
+
 P7. Anurag Bhattacharyya, **Raman Goyal**, Amirmassoud Mirzendehdel, Morad Behandish, "_DESIGN OF INTELLIGENT RESILIENT STRUCTURES VIA AUTOMATIC PLACEMENT OF SENSOR AND SMART ACTUATORS_", Publication date - 2024/08/15, Patent office – US, Application number – 18/168,011. 
 [[Patent]](https://patents.google.com/patent/US20240273245A1/en)
 
