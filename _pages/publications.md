@@ -9,6 +9,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - [Peer-reviewed Conference Articles](#peer-reviewed-conference-articles)
 - [Peer-reviewed Journal Articles](#peer-reviewed-journal-articles)
+- [Book Chapters](#book-chapters)
 - [Awarded and Pending Patents](#awarded-and-pending-patents)
 
 Peer-reviewed Conference Articles
@@ -247,7 +248,7 @@ J1. **Raman Goyal**, Edwin A. Peraza Hernandez, and Robert E. Skelton, "_Analyti
 Book Chapters
 ------
 
-B1. Ran Wang, **Raman Goyal**, Karthikeya S Parunandi, Aayushman Sharma, Suman Chakravorty, "_Decoupled Data-Based Control (D2C)_", Handbook of Dynamic Data Driven Applications Systems: Volume 3, Pages 223-254, Springer Nature Switzerland, July 2026. [[Chapter]] (https://doi.org/10.1007/978-3-031-88574-7_8)
+B1. Ran Wang, **Raman Goyal**, Karthikeya S Parunandi, Aayushman Sharma, Suman Chakravorty, "_Decoupled Data-Based Control (D2C)_", Handbook of Dynamic Data Driven Applications Systems: Volume 3, Pages 223-254, Springer Nature Switzerland, July 2026. [[Chapter]](https://doi.org/10.1007/978-3-031-88574-7_8)
 
 Awarded and Pending Patents
 ------
