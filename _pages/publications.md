@@ -259,7 +259,7 @@ P7. Anurag Bhattacharyya, **Raman Goyal**, Amirmassoud Mirzendehdel, Morad Behan
 P6. **Raman Goyal**, Anurag  Bhattacharyya, Amirmassoud   Mirzendehdel, Morad  Behandish, "_DESIGN OF ACTIVE RESILIENT STRUCTURES_", Publication date - 2024/08/08, Patent office – US, Application number – 18/162,130.
 [[Patent]](https://patents.google.com/patent/US20240265157A1/en)
 
-P5. Ion Matei, **Raman Goyal**, "_SYSTEM AND METHOD FOR ESTIMATING ERRORS IN A SENSOR NETWORK IMPLEMENTING HIGH FREQUENCY (HF) COMMUNICATION CHANNELS_", Publication date - 2024/06/27, Patent office – US Patent 12,470,320. 
+P5. Ion Matei, **Raman Goyal**, "_SYSTEM AND METHOD FOR ESTIMATING ERRORS IN A SENSOR NETWORK IMPLEMENTING HIGH FREQUENCY (HF) COMMUNICATION CHANNELS_", Publication date - 2025/11/11, Patent office – US Patent 12,470,320. 
 [[Patent]](https://patents.google.com/patent/US12470320B2/en)
 
 P4. Christoforos Somarakis, **Raman Goyal**, Erfaun Noorani, Shantanu Rane, "_SYSTEM AND METHOD FOR SECURITY CONTROL IN CYBER-PHYSICAL SYSTEMS WITH DELAY-INDUCED FEEDBACK WATERMARKING_", Publication date - 2025/09/09, Patent office – US Patent 12,411,951. 
