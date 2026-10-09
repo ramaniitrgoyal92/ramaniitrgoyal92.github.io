@@ -5,6 +5,9 @@ author_profile: true
 ---
 Talks and Presentation
 ------
+
+T20. **Raman Goyal**, "_Resilient Autonomous Systems_", General Electric, GE Vernova Advanced Research Center, Niskayuna, New York, October 2025.
+
 T19. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Ran Wang, Aayushman Sharma, Suman Chakravorty, "_Model Based Reinforcement Learning for Partially Observed Nonlinear Systems_", Tutorial Session, American Control Conference (ACC), Denver, Colorado, USA, July 2025.
 
 T18. **Raman Goyal**, Mohamed Naveed Gul Mohamed, Suman Chakravorty, "_An information-state based Approach to the Optimal Output Feedback Control of Nonlinear Systems_", Workshop, American Control Conference (ACC), Toronto, Canada, 10-12 July 2024.
